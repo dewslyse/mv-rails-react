@@ -11,7 +11,11 @@ greetings = Greeting.create([
   { message: 'Do not seek praise, seek criticism' },
   { message: 'Do not check work email on your days off' },
   { message: 'Make choices and dont look back' },
-  { message: 'When in doubt, just take the next small step' }
+  { message: 'When in doubt, just take the next small step' },
+  { message: 'Gratitude is said to be the secret to happiness' },
+  { message: 'Try to do the things that you\'re incapable of' },
+  { message: 'Measure twice, cut once' },
+  { message: 'Age is of no importance, unless you are a cheese' }
 ])
 
 
