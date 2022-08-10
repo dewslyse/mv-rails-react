@@ -15,7 +15,11 @@ greetings = Greeting.create([
   { message: 'Gratitude is said to be the secret to happiness' },
   { message: 'Try to do the things that you\'re incapable of' },
   { message: 'Measure twice, cut once' },
-  { message: 'Age is of no importance, unless you are a cheese' }
+  { message: 'Age is of no importance, unless you are a cheese' },
+  { message: 'You\'re not as fat as you think you are' },
+  { message: 'The best way to predict the future is to create it' },
+  { message: 'It\'s wrong to be right' },
+  { message: 'Happiness is a journey, not a destination' }
 ])
 
 
