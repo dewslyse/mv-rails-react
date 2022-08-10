@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
+import './Greeting.css';
 
 const GET_GREETING_REQUEST = 'GET_GREETING_REQUEST';
 const GET_GREETING_SUCCESS = 'GET_GREETING_SUCCESS';
