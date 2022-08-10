@@ -21,12 +21,3 @@ greetings = Greeting.create([
   { message: 'It\'s wrong to be right' },
   { message: 'Happiness is a journey, not a destination' }
 ])
-
-
-
-
-
-
-
-
-
