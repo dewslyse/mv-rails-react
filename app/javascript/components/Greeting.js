@@ -26,7 +26,7 @@ export function retrievedGreeting(json) {
 class Greeting extends React.Component {
   render() {
     return (
-      <div>
+      <div className='advice'>
         <h2>{this.props.greeting}</h2>
         <button onClick={() => this.props.getGreeting()}>Get Advice</button>
       </div>
